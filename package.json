@@ -2,7 +2,7 @@
   "name": "irodukanai-manaba",
   "displayName": "Irodukanai manaba",
   "version": "0.0.1",
-  "description": "逆に、色づかない manaba",
+  "description": "逆に色づかない manaba",
   "author": "Ryoga-exe",
   "scripts": {
     "dev": "plasmo dev",
