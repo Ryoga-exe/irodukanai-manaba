@@ -25,7 +25,7 @@
   },
   "manifest": {
     "host_permissions": [
-      "https://*/*"
+      "https://manaba.tsukuba.ac.jp/*"
     ]
   },
   "packageManager": "pnpm@8.8.0"
